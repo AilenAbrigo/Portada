@@ -1,0 +1,112 @@
+*
+{margin: o;
+    padding: o;
+}
+
+nav{ font-size: 15px;
+    background-color: #076585;
+    display: flex;
+    align-items: center;
+    justify-content:flex-end
+    
+}
+ul{
+    list-style: none;
+    color: #fff;
+    
+    display: flex;
+    margin: 20px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    margin: 0 5px;
+}
+
+.logo{
+    height: 200px;
+    border-radius: 200px;
+    margin: 15px;
+}
+
+
+body{
+background: radial-gradient(#076585,#fff)
+}
+.portada {
+    width: 550px;
+    height: 500px;
+    
+}
+.slogan {
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+     color: #fff;
+}
+ main{
+     display: flex;
+     align-items: center;
+     justify-content: space-evenly;
+     flex-direction: row-reverse;
+
+ }
+
+ .info{
+     padding: 50px;
+     height:  10px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     color: #fff;
+ }
+ input{ 
+     text-align: center;
+     border-radius: 15px;
+     color:black;
+     background-color:#fff ;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 20px;
+     font-style: italic;
+     font-weight: 300;
+     border: 3px double black;}
+
+     .call{
+          text-align: center;s
+        border-radius: 15px;
+        color:#fff;
+        background-color:black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-style: italic;
+        font-weight: 300;
+        border: 3px double #fff;
+
+     }
+
+     .button{
+         margin: 70px;xs
+         display: flex;
+         justify-content: space-evenly;
+         flex-direction: row;
+s     }
+
+
+     .descripcion{ padding: 50px;
+
+         
+         color: #fff;
+         font-size: 40px;
+         
+         
+        
+     }
+
+
+
+
+     
+     
+     
+
+     
+ 
